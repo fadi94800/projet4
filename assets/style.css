@@ -243,6 +243,14 @@ input[type="submit"] {
 	background-color: #BEB45A;
 	padding: .5em 1em
 }
+.nexte {
+	font-size: 36px;
+}
+
+.preve{
+	font-size: 36px;
+
+}
 
 @media all and (max-width: 1180px) {
 	.picture {
@@ -352,5 +360,15 @@ input[type="submit"] {
 	.picture {
 		width: 80%;
 	}
+	.nexte {
+		font-size: 26px;
+	}
+
+	.preve{
+		font-size: 26px;
+
+	}
+
+
 }
 
